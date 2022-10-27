@@ -1,0 +1,13 @@
+@import 'global.css';
+@import 'header.css';
+@import 'introducao.css';
+@import 'experiencia.css';
+@import 'formacao.css';
+@import 'footer.css'
+
+/* 
+  Fontes
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Roboto', sans-serif; 
+*/
+
